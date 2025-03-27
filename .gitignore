@@ -136,3 +136,5 @@ dist
 .pnp.*
 .terraform/
 .terraform.lock.hcl
+.terraform/
+.terraform.lock.hcl
